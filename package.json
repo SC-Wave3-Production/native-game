@@ -1,0 +1,13 @@
+{
+  "name": "react-native-game",
+  "version": "1.0.0",
+  "description": "react native game",
+  "author": "S K <me@silenthun.space>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
