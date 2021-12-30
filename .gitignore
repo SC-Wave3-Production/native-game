@@ -1,0 +1,14 @@
+node_modules
+/build/
+/lib/
+/dist/
+/docs/
+.DS_Store
+dist
+dist-ssr
+*.local
+*.log
+.idea/*
+.metals/*
+.eslintcache
+todo
