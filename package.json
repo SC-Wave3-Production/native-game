@@ -1,8 +1,8 @@
 {
-  "name": "react-native-game",
+  "name": "native-game",
   "version": "1.0.0",
-  "description": "react native game",
-  "author": "S K <me@silenthun.space>",
+  "description": "react native simple game",
+  "author": "SK",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
